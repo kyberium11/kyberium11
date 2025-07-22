@@ -60,10 +60,6 @@
 
 > I’ve probably launched more WordPress sites than I've eaten breakfasts 🍳😄
 
----
-
-### 💡 Featured Projects
-(Coming soon: add image previews, live demo links, GitHub repos here!)
 
 ---
 
