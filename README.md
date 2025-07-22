@@ -35,22 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeromealtarejos&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromealtarejos&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeromealtarejos&theme=onedark&no-frame=true&column=7&margin-w=5" alt="Trophies" />
-</p>
-
----
 
 ### 🚀 Currently Learning
 
